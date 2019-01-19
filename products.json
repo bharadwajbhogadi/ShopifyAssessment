@@ -1,0 +1,1 @@
+{"products": [{"id": 1, "title": "iphone", "price": 800, "inventory_count": 1}, {"id": 2, "title": "laptop", "price": 1000, "inventory_count": 4}, {"id": 3, "title": "Apple", "price": 5, "inventory_count": 15}, {"id": 4, "title": "Mango", "price": 3, "inventory_count": 0}]}
