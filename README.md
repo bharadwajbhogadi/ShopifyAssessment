@@ -25,7 +25,7 @@ with inventory `>0` are also displayed and vice versa
 - **Sample Response**
 ```{"id": 1, "title": "iphone", "price": 800, "inventory_count": 1}```
 
-###POST /purchase
+### POST /purchase
 
 - **Request Body**: 
 Takes an input as list of objects in a shopping cart
